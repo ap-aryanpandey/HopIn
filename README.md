@@ -10,14 +10,14 @@ Abstract of Idea The idea is based upon the need of the public to get best trave
 The user just enters the pickup and drop locations, algorithm sorts out the best possible route and the trip depending on multiple factors (minimum wait time, live traffic tracking, crowd presence, etc.). The second step is where we foray the abstraction, of the ideal principles of the firm. User just HopsIn (yes, that's a verb now) reaches the location and gets off. Evidently, the input from the user is minimum albeit the back-end algorithm works at full throttle. Ultimately, the payment aspect of things is done seamlessly contact lessly.
 Implementation looks into payment facet thorugh wireless methods (NFC, WI-Fi or be it Bluetooth). Financial web clients could be assigned for the payments 
 
-#Presentation 
+# Presentation 
 Pitch Presentation:
 https://drive.google.com/file/d/1tqoeE3QTXhjBVPuR3P8LWZZW_4iO2zQE/view?usp=sharing
 
 Final Presentation:
 https://drive.google.com/file/d/12k64aoqnZOgOJnEZ0Dhq0MjElWzJ0CFI/view?usp=sharing
 
-#AOG:
+# AOG:
 English: 
 https://drive.google.com/open?id=1G5c_fQVYlFFKjsB-hJsk7GPBI6QKfyIC 
 Hindi: 
