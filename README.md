@@ -17,8 +17,5 @@ https://drive.google.com/file/d/1tqoeE3QTXhjBVPuR3P8LWZZW_4iO2zQE/view?usp=shari
 Final Presentation:
 https://drive.google.com/file/d/12k64aoqnZOgOJnEZ0Dhq0MjElWzJ0CFI/view?usp=sharing
 
-# AOG:
-English: 
-https://drive.google.com/open?id=1G5c_fQVYlFFKjsB-hJsk7GPBI6QKfyIC 
-Hindi: 
-https://drive.google.com/open?id=1G5c_fQVYlFFKjsB-hJsk7GPBI6QKfyIC
+# Images:
+
